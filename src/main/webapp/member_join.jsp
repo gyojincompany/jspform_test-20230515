@@ -9,7 +9,7 @@
 <body>
 	<h2>회원 가입 양식</h2>
 	<hr>
-	<form action="member_joinOk.jsp">
+	<form action="member_joinOk.jsp" method="post">
 		아이디 : <input type="text" name="id"><br><br>
 		비밀번호 : <input type="password" name="pw"><br><br>
 		이름 : <input type="text" name="name"><br><br>
